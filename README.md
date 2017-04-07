@@ -85,7 +85,7 @@ The basic template is a guideline for how to structure your pages when building 
 
 Copy the example below into a new HTML file to get started with it.
 
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
   <head>
