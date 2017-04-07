@@ -38,7 +38,7 @@ MuSite/
 
 To view your Bootstrap Theme documentation, simply find the docs directory and open index.html in your favorite browser.
 
-```
+```Shell
 $ open docs/index.html
 ```
 
@@ -48,13 +48,13 @@ If you’re after more customization we’ve also included a custom Gulp file, w
 
 Once node is installed, run the following npm command to install Gulp.
 
-```
+```Shell
 $ npm install gulp -g
 ```
 
 When you’re done, make sure you’ve installed the rest of the theme’s dependencies:
 
-```
+```Shell
 $ npm install
 ```
 
