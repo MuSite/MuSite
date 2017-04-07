@@ -44,7 +44,7 @@ $ open docs/index.html
 
 ## Gulpfile.js
 
-If you’re after more customization we’ve also included a custom [Gulp](http://gulpjs.com/) file, which can be used to quickly re-compile a theme’s CSS and JS. You’ll need to install both [Node](https://nodejs.org/en/download/) and Gulp before using our included '''gulpfile.js'''.
+If you’re after more customization we’ve also included a custom [Gulp](http://gulpjs.com/) file, which can be used to quickly re-compile a theme’s CSS and JS. You’ll need to install both [Node](https://nodejs.org/en/download/) and Gulp before using our included ```gulpfile.js```.
 
 Once node is installed, run the following npm command to install Gulp.
 
@@ -58,26 +58,28 @@ When you’re done, make sure you’ve installed the rest of the theme’s depen
 $ npm install
 ```
 
-Now, modify your source files and run gulp to generate new local '''dist/''' files automatically. **Be aware that this replaces existing '''dist/''' files**, so proceed with caution.
+Now, modify your source files and run gulp to generate new local ```dist/``` files automatically. **Be aware that this replaces existing ```dist/``` files**, so proceed with caution.
 
 ## Theme source code
 
-The scss/, js/, and fonts/ directories contain the source code for our CSS, JS, and icon fonts (respectively). Within the scss/ and js/ directories you’ll find two subdirectories:
+The ```scss/```, ```js/```, and ```fonts/``` directories contain the source code for our CSS, JS, and icon fonts (respectively). Within the ```scss/``` and ```js/``` directories you’ll find two subdirectories:
 
-bootstrap/, which contains the most recently released version of Bootstrap (v4.0.0-alpha.6).
-custom/, which contains all of the custom components and overrides authored specifically for this theme.
-The dist/ folder includes everything above, built into single CSS and JS files that can easily be integrated into your project.
+* ```bootstrap/```, which contains the most recently released version of Bootstrap (v4.0.0-alpha.6).
+* ```custom/```, which contains all of the custom components and overrides authored specifically for this theme.
 
-The docs/ folder includes the source code for our documentation, as well as a handful of live examples.
+The ```dist/``` folder includes everything above, built into single CSS and JS files that can easily be integrated into your project.
+
+The ```docs/``` folder includes the source code for our documentation, as well as a handful of live examples.
 
 The remaining files not specifically mentioned above provide support for packages, license information, and development.
 
 ## Custom builds
 
-Leverage the included source files and gulpfile.js to customize your Bootstrap Theme for your exact needs. Change variables, exclude components, and more.
+Leverage the included source files and ```gulpfile.js``` to customize your Bootstrap Theme for your exact needs. Change variables, exclude components, and more.
 
-toolkit-*.scss is the entry point for Sass files - to build your own custom build, simply modify your local custom files or edit the includes listed here. Note: some themes also rely on a shared components.scss file, which you can find imported in your toolkit-*.scss.
-variables.scss is home to your theme’s variables. Note that your theme’s variables file depends on and overrides an existing Bootstrap variable file (found in /scss/bootstrap/_variables.scss).
+* ```toolkit-*.scss``` is the entry point for Sass files - to build your own custom build, simply modify your local custom files or edit the includes listed here. Note: some themes also rely on a shared ```components.scss``` file, which you can find imported in your ```toolkit-*.scss```.
+
+* ```variables.scss``` is home to your theme’s variables. Note that your theme’s variables file depends on and overrides an existing Bootstrap variable file (found in ```/scss/bootstrap/_variables.scss```).
 
 ## Basic template
 
