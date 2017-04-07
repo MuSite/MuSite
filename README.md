@@ -112,6 +112,23 @@ Copy the example below into a new HTML file to get started with it.
 </html>
 ```
 
-## Components
+## Bootstarp components
+
+# Carousel
+# Collapse
+# Forms and Modal
+# Navbar, Navs and Scrollspy
+
+## New components
+
+### Font Awesome
+
+### Flag-icon-css
 
 ## Plugins
+
+### Parallax.js
+
+### Odometer
+
+### Live Chat front-end
