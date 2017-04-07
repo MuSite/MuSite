@@ -114,8 +114,8 @@ Copy the example below into a new HTML file to get started with it.
 
 ## Bootstarp components
 
-# Carousel
-# Collapse
+# [Carousel](https://v4-alpha.getbootstrap.com/components/carousel/)
+# [Collapse](https://v4-alpha.getbootstrap.com/components/collapse/)
 # Forms and Modal
 # Navbar, Navs and Scrollspy
 
@@ -123,12 +123,24 @@ Copy the example below into a new HTML file to get started with it.
 
 ### Font Awesome
 
+...
+
 ### Flag-icon-css
+
+...
 
 ## Plugins
 
+...
+
 ### Parallax.js
+
+...
 
 ### Odometer
 
+...
+
 ### Live Chat front-end
+
+...
