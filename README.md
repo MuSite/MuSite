@@ -44,7 +44,7 @@ $ open docs/index.html
 
 ## Gulpfile.js
 
-If you’re after more customization we’ve also included a custom Gulp file, which can be used to quickly re-compile a theme’s CSS and JS. You’ll need to install both Node and Gulp before using our included gulpfile.js.
+If you’re after more customization we’ve also included a custom [Gulp](http://gulpjs.com/) file, which can be used to quickly re-compile a theme’s CSS and JS. You’ll need to install both [Node](https://nodejs.org/en/download/) and Gulp before using our included '''gulpfile.js'''.
 
 Once node is installed, run the following npm command to install Gulp.
 
@@ -58,7 +58,7 @@ When you’re done, make sure you’ve installed the rest of the theme’s depen
 $ npm install
 ```
 
-Now, modify your source files and run gulp to generate new local dist/ files automatically. Be aware that this replaces existing dist/ files, so proceed with caution.
+Now, modify your source files and run gulp to generate new local '''dist/''' files automatically. **Be aware that this replaces existing '''dist/''' files**, so proceed with caution.
 
 ## Theme source code
 
