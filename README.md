@@ -114,10 +114,10 @@ Copy the example below into a new HTML file to get started with it.
 
 ## Bootstarp components
 
-# [Carousel](https://v4-alpha.getbootstrap.com/components/carousel/)
-# [Collapse](https://v4-alpha.getbootstrap.com/components/collapse/)
-# Forms and Modal
-# Navbar, Navs and Scrollspy
+* [Carousel](https://v4-alpha.getbootstrap.com/components/carousel/)
+* [Collapse](https://v4-alpha.getbootstrap.com/components/collapse/)
+* Forms and Modal
+* Navbar, Navs and Scrollspy
 
 ## New components
 
