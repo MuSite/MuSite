@@ -112,6 +112,10 @@ Copy the example below into a new HTML file to get started with it.
 </html>
 ```
 
+## Inspiration
+
+This theme is inspired on the [Bootstrap Marketing Minimal theme](https://bootstrap-themes.github.io/marketing//minimal/index.html) and the [documentation](https://bootstrap-themes.github.io/marketing/docs/index.html).
+
 ## Bootstarp components
 
 * [Carousel](https://v4-alpha.getbootstrap.com/components/carousel/)
