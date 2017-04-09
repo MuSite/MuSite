@@ -25,13 +25,16 @@ MuSite/
   │   ├── bootstrap-entypo.ttf
   │   ├── bootstrap-entypo.woff
   │   └── bootstrap-entypo.woff2
-  └── dist/
-      ├── toolkit.css
-      ├── toolkit.css.map
-      ├── toolkit.min.css
-      ├── toolkit.min.css.map
-      ├── toolkit.js
-      └── toolkit.min.js
+  ├── dist/
+  |   ├── toolkit.css
+  |   ├── toolkit.css.map
+  |   ├── toolkit.min.css
+  |   ├── toolkit.min.css.map
+  |   ├── toolkit.js
+  |   └── toolkit.min.js
+  └── demos/
+      ├── TimeNAttendance/
+      └── LandForSale/
 ```
 
 ## Getting started
