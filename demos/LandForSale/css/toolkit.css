@@ -8488,10 +8488,7 @@ h1.brl {
   .bru {
     vertical-align: bottom; }
   .brt {
-    vertical-align: top; }
-  .dy.brl,
-  h1.brl {
-    font-size: 5.5rem; } }
+    vertical-align: top; }}
 
 @media (min-width: 992px) {
   .brw,
