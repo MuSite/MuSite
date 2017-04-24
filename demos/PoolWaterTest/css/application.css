@@ -1,0 +1,9 @@
+/*
+ * Application level overrides
+ */
+
+/* dashboard */
+.app-navbar {
+  font-size: 13px;
+  letter-spacing: .15em;
+}
